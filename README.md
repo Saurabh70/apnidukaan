@@ -1,5 +1,7 @@
 # ApniDukaan: From Gali to Digital
 
+**Live demo:** https://saurabh70.github.io/apnidukaan/
+
 An interactive pitch demo for **ApniDukaan**, a platform that brings India's neighbourhood kirana stores online with a digital and logistics layer.
 
 The experience tells the story in two stages:
